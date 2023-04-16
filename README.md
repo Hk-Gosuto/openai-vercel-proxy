@@ -10,6 +10,12 @@ To download and install Vercel CLI, run the following command:
 pnpm i -g vercel
 ```
 
+## Login Vercel
+
+```
+vercel login
+```
+
 ## Publish
 
 Publish to Vercel
